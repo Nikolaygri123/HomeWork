@@ -1,0 +1,15 @@
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.csproj.AssemblyReference.cache
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.GeneratedMSBuildEditorConfig.editorconfig
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.AssemblyInfoInputs.cache
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.AssemblyInfo.cs
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.csproj.CoreCompileInputs.cache
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/bin/Debug/net6.0/Kontrolnaya
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/bin/Debug/net6.0/Kontrolnaya.deps.json
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/bin/Debug/net6.0/Kontrolnaya.runtimeconfig.json
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/bin/Debug/net6.0/Kontrolnaya.dll
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/bin/Debug/net6.0/ref/Kontrolnaya.dll
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/bin/Debug/net6.0/Kontrolnaya.pdb
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.dll
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/obj/Debug/net6.0/ref/Kontrolnaya.dll
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.pdb
+/Users/koo123/Desktop/HomeWork/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.genruntimeconfig.cache
